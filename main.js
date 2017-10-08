@@ -1,2 +1,2 @@
 var num = 50;
-var truth = "Hello Moose (set in local)";
+var truth = "Hello Crocodile (set in mergetool)";
