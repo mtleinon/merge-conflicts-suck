@@ -1,2 +1,2 @@
 var num = 50;
-var truth = "Hello Mouse";
+var truth = "Hello Elephant (set in repo)";
