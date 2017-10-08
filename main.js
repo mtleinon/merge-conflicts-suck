@@ -1,2 +1,2 @@
 var num = 50;
-var truth = "Hello Fox (added in local)";
+var truth = "Hello Whale (set in local)";
